@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of a monstrons [sic] female-child, with two heads, four eyes, four ears, two noses, two mouths and four arms, four legs, and all things else proportionably, fixed to one body. Born about the 19th of May last, ar [sic] a village called Ill-Brewers near Taunton Dean in somerset=shire. Likewise a true and perfect account of its form so prodigiously strange, with several remarkable passages observed from it since its birth, so great and amazing, that the like has not been known in many ages: with many other circumstances. As it was faithfully communicated in a letter, by a person of worth, living in Tauntou-Dean [sic], to a gentleman here in London, and attested by many hundreds of no mean rank; and well koown [sic] to several gentlemen in and about London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06272</idno>
+            <idno type="STC">Wing T2886B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.161.f.2[89]</idno>
+            <idno type="EEBO-CITATION">99887672</idno>
+            <idno type="PROQUEST">ocm99887672</idno>
+            <idno type="VID">182476</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182476)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:5[91])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of a monstrons [sic] female-child, with two heads, four eyes, four ears, two noses, two mouths and four arms, four legs, and all things else proportionably, fixed to one body. Born about the 19th of May last, ar [sic] a village called Ill-Brewers near Taunton Dean in somerset=shire. Likewise a true and perfect account of its form so prodigiously strange, with several remarkable passages observed from it since its birth, so great and amazing, that the like has not been known in many ages: with many other circumstances. As it was faithfully communicated in a letter, by a person of worth, living in Tauntou-Dean [sic], to a gentleman here in London, and attested by many hundreds of no mean rank; and well koown [sic] to several gentlemen in and about London.</title>
+               </titleStmt>
+               <extent>4 p. : ill. (woodcut).  </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abnormalities, Human --  England --  Early works to 1800.</term>
+               <term>Monsters --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:182476:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <p>A True RELATION OF <hi>A Monſtrons Female-Child,</hi> With two Heads, four Eyes, four Ears, two Noſes, two Mouths, and four Arms, four Legs, and all things elſe proportiona<g ref="char:EOLhyphen"/>bly, fixed to one Body.</p>
+            <p>Born about the 19 of <hi>May</hi> laſt, at a Village called <hi>Ill-Brewers</hi> near TAUNTON DEAN IN Somerſet-ſhire.</p>
+            <p>LIKEWISE A true and perfect Account of its form ſo prodigiouſly ſtrange, with ſeveral remarkable paſſages obſerved from it ſince its Birth, ſo great and amazing, that the like has not been known in many Ages: with many other Circumſtances.</p>
+            <figure>
+               <figDesc>depiction of conjoined (pygopagus) twins</figDesc>
+            </figure>
+            <p>As it was faithfully Communicated in a Letter, by a perſon of worth, <hi>living in <hi>Taunton-Dean,</hi>
+               </hi> to a Gentleman here in <hi>London,</hi> and Atteſted by many <hi>hun<g ref="char:EOLhyphen"/>dreds</hi> of no mean Rank; and well koown to ſeveral <hi>Gentlemen in and about <hi>LONDON.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. Mallet</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:182476:2"/>
+            <!-- PDF PAGE 41 -->
+            <head>A True RELATION OF <hi>A Monſtrous Female-Childe,</hi> Born about the 6th of <hi>May</hi> laſt, at a Village near <hi>Taunton-Dean</hi> in <hi>Somerſet</hi>-ſhire. <hi>&amp;c.</hi>
+            </head>
+            <p>WOnderful are the Productions of Nature, and great-to be admired, providence that Rules the world and orders all below, has marked out various and ſundry Forms and ſhapes not uſual, nor Common, but ſuch as may fill all perſons with Aſtoniſhment, for who can hear and not be amazed at what we here intend for to relate, a thing ſo monſtrous ſtrange and wonderful, the like of which has not been heard of nor ſeen in many Ages paſt, <hi>viz.</hi> A Female Infant, or more properly two Females joyned in one, ſo much beyond the skill of Art to make a ſeparation between; that all conclude them to be two deſtinct Bodies joyned ſo firmly in the Womb, Back to Back. It's firſt appearance in the World was about the 6th Inſtant of <hi>May,</hi> after a long expectation, and a tedious Tra<g ref="char:EOLhyphen"/>uel. The groaning Mother was disburthened of the Monſtrous B<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rth, whoſe frightful Apparition ſo amazed the ſeveral Aſſiſtants and Spectators, that ſtarting back all pale, they knew not what to think, but long time ſtood doubtful in their wonder, e're they durſt approach, ſuppoſing it more dreadful than it was, but after a more curious View, they found it was a humain Creature, and bore the ſtamp (though in an unuſual Form) of woman, ſo that taking heart, they annimated each other ſo far, as to take it in their Arms, whilſt with a double Voice it cried aloud, and found it in all proportions as followeth, viz. That it had two
+<pb n="3" facs="tcp:182476:2"/>
+               <!-- PDF PAGE 41 -->perfect heads, as large and as lively as any Children uſually have at their Births; which were ſupported by two different Necks, which grow from the united Body or Bodies, two Female Feces, beautiful, fair, and of a pleaſanc Aſpect; in which were plain<g ref="char:EOLhyphen"/>ly imprinted all the ſmiling Graces of well-promiſing Virgins; two roling Eyes each Face contained, two Ears, both in their proper places. Upon each Noſes and Mouthes, of fit and pro<g ref="char:EOLhyphen"/>portionable Largeneſs, the Bod<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es joyning Back to Back, two Arms grew on one ſide and two on the other, with all their joynts as pliable and Active as tender ſtreng<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h could allow, at the end of each Arm a fair hand with Finge<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Thumbs, and all placed in due Order, having in all ſixteen Fingers and four Thumbs; the breſt-bones and Ribs divided from each other, ſo curious was Nature in perfecting the work, that it would not leave any thing out of Frame, the very Nipple; though but ſmall appearing a due number of Ribs and a panting Heart on each left ſide, ſo that all believe notwithſtanding this wondrous Conjunction that it contains two dividual Souls ſo wonderful are all the works of the omnipotent Creator, who formed us of Duſt, and ſo can make us as it beſt pleaſes him. But when the Infant or Infants, which you pleaſe, cry, their Voices or Cries are of the ſelf ſame note, though 'tis ſeldome that both heads cry together. The Backs being joyned, two Bellies do equally appear, with Navels Bow<g ref="char:EOLhyphen"/>els and all other things requiſite in Nature as Female-Privi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te, places of Evacuation and the like; ſo that there remains no im<g ref="char:EOLhyphen"/>perfection to perfect two Females, only their ſtrict conjunction in one, four Legs likewiſe are in order joyned and placed, ha<g ref="char:EOLhyphen"/>ving Toes and Feet proportionable to the great conſternation and amazement of many hundreds who dayly flock thither to ſee the monſtrous work of Nature, and admire ſo great a place of curioſity during the time of the Mothers Travel ſhe was ſo big and unwieldy, that all concluded that ſhe would have two Children or Twins at that Birth; which obſervations and aſſeve<g ref="char:EOLhyphen"/>rations did not altogether fail, though it happened at a more ſtrange rate than was expected, the Father of this duplicit or double infant, is as it is averred, no other than a poor honeſt laborious man and takes great pains for the Maintainance of him<g ref="char:EOLhyphen"/>ſelf and his Family being a Man of very honeſt Repute, and free from all aſperſions of Vice or exorbitances, the which as to many of the cenſorious of this Age might have imputed the
+<pb n="4" facs="tcp:182476:3"/>
+               <!-- PDF PAGE 42 -->Cauſe of ſo ſtrange an accident, yet not altogether to leave the Reader in an extaſie of thought or ad<g ref="char:EOLhyphen"/>miration at this wonderful birth of nature and work of providence, there is ſeveral learned Hi<g ref="char:EOLhyphen"/>ſtorians that make mention of the like tho 'tis very rare, for as it is recorded by a warrantable Author in his Book of Nature, of the like Birth that hap<g ref="char:EOLhyphen"/>ned, and that the Children ſo joyned in the womb being brought forth did live for ſeveral years: be<g ref="char:EOLhyphen"/>ing chearful and pleaſant, endued with undrrſtan<g ref="char:EOLhyphen"/>ding and all other capacities incident to ratiooal ſouls, and that they ſo continued, till one of them dying and by reaſon there could not be made a Section to ſeparate the dead from the living with<g ref="char:EOLhyphen"/>out hazarding the Life of the remaining, he conti<g ref="char:EOLhyphen"/>nued alive till the noiſomeneſs of the deceaſed in<g ref="char:EOLhyphen"/>fected him, and thereby, and by no other Cauſe as could be conjoctured he dyed. So may we ſee the wonders of the omnipotent God, and that we can or ought to do herein, is to adore his Divine Majeſty, and with the Prophet ſay, <hi>This is the Lords doing, and it is marvellous in our Eyes.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
